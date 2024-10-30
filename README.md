@@ -19,7 +19,7 @@
 - 🎖 Đã sống sót qua 999+ lỗi compile
 
 ## 📱 Bắt tôi ở đâu?
-[![Facebook]([https://img.shields.io/badge/Facebook-Đang_online_24/7-blue](https://www.facebook.com/profile.php?id=100080931461731))](link_facebook)
+[![Facebook]([https://img.shields.io/badge/Facebook-Đang_online_24/7-blue]([https://www.facebook.com/profile.php?id=100080931461731](https://img.shields.io/badge/Facebook-Đang_online_24/7-blue)))](https://www.facebook.com/profile.php?id=100080931461731)
 
 ---
 > ### *"Không có bug nào là không thể fix, chỉ là chưa đủ cốc cafe thôi"* 
